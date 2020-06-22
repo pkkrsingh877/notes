@@ -6,3 +6,7 @@ I'll have to put my foot on the accelerator and get ahead of them. Like that's e
 Alright I'm ready. Let's goooooooooooo.....
 
 Yosh ! Minna, Here goes the first change
+
+## Guys I'm Prabhat writing this shit in the visual studio code ...
+
+Alright then I started using git form Visual Studio Code. In my garbage laptop, VS Code runs very very slow and lags quite a bit. But I had to do this just for the sake of learning what I should.
