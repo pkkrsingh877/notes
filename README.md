@@ -4,3 +4,5 @@ It is very important to learn these things. I bet my friends have already learne
 I'll have to put my foot on the accelerator and get ahead of them. Like that's easy. I should not get ahead of myself. 
 
 Alright I'm ready. Let's goooooooooooo.....
+
+Yosh ! Minna, Here goes the first change
